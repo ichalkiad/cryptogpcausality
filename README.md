@@ -15,5 +15,5 @@ The available sentiment data contain the sentiment entropy index per news source
 
 Tested with Python v3.6.7 and the <cite><a href="http://www.gaussianprocess.org/gpml/code/matlab/doc/">Gaussian Process Toolbox</a></cite> v3.5.
 
-Copyright @ Authors March 2021
+Copyright @ Authors April 2021
 
