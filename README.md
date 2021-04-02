@@ -6,7 +6,7 @@ Please cite the paper as follows:
 
 _Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, Sentiment-Driven Statistical Causality in Multimodal Systems (December 8, 2020). Available at SSRN: https://ssrn.com/abstract=3742063_
 
-The available sentiment data contain the sentiment entropy index per news source, as well as the combinedweighted sentiment indices that were used in the studies.
+The available sentiment data contain the sentiment entropy index per news source, as well as the combined weighted sentiment indices that were used in the studies.
 
 
 
