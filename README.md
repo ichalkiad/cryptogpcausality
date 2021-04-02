@@ -8,12 +8,18 @@ _Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michae
 
 The available sentiment data contain the sentiment entropy index per news source, as well as the combined weighted sentiment indices that were used in the studies.
 
+Contents of the current repository:
 
+  1. Folder "appendix" contains the supplementary appendix with extra studies we conducted.
+  
+  2. Folder data contains the financial time-series (subfolder "finance"), the dictionaries (subfolder "dictionaries"), the text time-series per asset and news source (subfolder "sentiment"), and the constructed sentiment indices we used in the studies (subfolders "NLP1 - 2 - 3", each for the corresponding index as described in the paper).
 
+  3. Folder "python" contains the Python code for constructing the sentiment indices.
 
+  4. Folder "matlab" contains MatLab code for the Multiple-Output Gaussian Process Statistical Causal model
 
 
 Tested with Python v3.6.7 and the <cite><a href="http://www.gaussianprocess.org/gpml/code/matlab/doc/">Gaussian Process Toolbox</a></cite> v3.5.
 
-Copyright @ Authors March 2021
+Copyright @ Authors April 2021
 
