@@ -24,6 +24,7 @@ Contents of the current repository:
 
   4. Folder "matlab" contains MatLab code for the Multiple-Output Gaussian Process Statistical Causal model
 
+Please make sure to adjust the path names in some of the MatLab scripts if necessary.
 
 Tested with Python v3.6.7 and the <cite><a href="http://www.gaussianprocess.org/gpml/code/matlab/doc/">Gaussian Process Toolbox</a></cite> v3.5.
 
