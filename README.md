@@ -18,7 +18,7 @@ Contents of the current repository:
 
   1. Folder "appendix" contains the supplementary appendix with extra studies we conducted.
   
-  2. Folder data contains the financial time-series (subfolder "finance"), the dictionaries (subfolder "dictionaries"), the text time-series per asset and news source (subfolder "sentiment"), and the constructed sentiment indices we used in the studies (subfolders "NLP1 - 2 - 3", each for the corresponding index as described in the paper).
+  2. Folder data contains the financial time-series (subfolder "finance"), the data used in the causal analysis (subfolder "causality_data") the dictionaries (subfolder "dictionaries"), the text time-series per asset and news source (subfolder "sentiment"), and the constructed sentiment indices we used in the studies (subfolders "NLP1 - 2 - 3", each for the corresponding index as described in the paper).
 
   3. Folder "python" contains the Python code for constructing the sentiment indices.
 
