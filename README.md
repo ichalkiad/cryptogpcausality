@@ -18,11 +18,11 @@ Contents of the current repository:
 
   1. Folder "appendix" contains the supplementary appendix with extra studies we conducted.
   
-  2. Folder data contains the financial time-series (subfolder "finance"), the data used in the causal analysis (subfolder "causality_data") the dictionaries (subfolder "dictionaries"), the text time-series per asset and news source (subfolder "sentiment"), and the constructed sentiment indices we used in the studies (subfolders "NLP1 - 2 - 3", each for the corresponding index as described in the paper).
+  2. Folder data contains the financial time-series (subfolder "finance"), the data and part of the code used in the causal analysis (subfolder "causality_data") the dictionaries (subfolder "dictionaries"), the text time-series per asset and news source (subfolder "sentiment"), and the constructed sentiment indices we used in the studies (subfolders "NLP1 - 2 - 3", each for the corresponding index as described in the paper).
 
   3. Folder "python" contains the Python code for constructing the sentiment indices.
 
-  4. Folder "matlab" contains MatLab code for the Multiple-Output Gaussian Process Statistical Causal model
+  4. Folder "matlab" contains additional MatLab code for the Multiple-Output Gaussian Process Statistical Causal model
 
 Please make sure to adjust the path names in some of the MatLab scripts if necessary.
 
