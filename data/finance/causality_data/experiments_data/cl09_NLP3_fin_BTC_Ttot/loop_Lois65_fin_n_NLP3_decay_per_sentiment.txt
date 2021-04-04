@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+for if_caus_in_mean in 0
+do
+	for if_returns in 0
+	do
+		for lag in 1 7 30
+		do
+			for pairs in 11 12
+			do
+				for testing_mode in 0 
+				do
+				qsub  -v if_caus_in_mean=$if_caus_in_mean -v if_returns=$if_returns -v lag=$lag -v pairs=$pairs -v testing_mode=$testing_mode  -N Lois_65_finNLP3_dps.pairs$pairs.lag$lag.ifr$if_returns.ifc$if_caus_in_mean.test$testing_mode runner_Lois65_fin_n_NLP3_decay_per_sentiment.txt
+
+				done
+			done
+		done
+	done
+done

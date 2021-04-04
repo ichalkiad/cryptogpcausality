@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+for if_caus_in_mean in 1
+do
+	for if_returns in 0 1
+	do
+		for lag in 1 7 30
+		do
+			for pairs in 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 61 62 63 64 65 66 67 68
+			do
+				for testing_mode in 0 
+				do
+				qsub  -v if_caus_in_mean=$if_caus_in_mean -v if_returns=$if_returns -v lag=$lag -v pairs=$pairs -v testing_mode=$testing_mode  -N Lois_47_finNLPFnG_meanchi.pairs$pairs.lag$lag.ifr$if_returns.ifc$if_caus_in_mean.test$testing_mode runner_Lois47_fin_n_NLP_FnG_meanchi.txt
+
+				done
+			done
+		done
+	done
+done

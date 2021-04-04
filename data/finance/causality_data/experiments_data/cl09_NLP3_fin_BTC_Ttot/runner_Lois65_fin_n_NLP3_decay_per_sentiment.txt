@@ -1,0 +1,7 @@
+#$ -S /bin/bash
+#$ -l h_vmem=2G
+#$ -l tmem=2G
+#$ -l h_rt=32:0:0
+#$ -cwd
+#$ -j y
+/share/apps/matlabR2015b/bin/matlab -nodisplay -nodesktop -nojvm -nosplash -singleCompThread -r "Lois65_GPC_fin_n_NLP3_decay_per_sentiment($lag, $pairs, $if_returns, $if_caus_in_mean, $testing_mode)"
