@@ -1,12 +1,12 @@
 # Sentiment-driven statistical causality in multimodal systems
 
-This repository contains the code for the paper "Sentiment-driven statistical causality in multimodal systems", by Ioannis Chalkiadakis, Anna Zaremba, Gareth W. Peters and Michael J. Chantler.
+This repository contains the code for the paper "On-chain Analytics for Sentiment-driven Statistical Causality in Cryptocurrencies", by Ioannis Chalkiadakis, Anna Zaremba, Gareth W. Peters and Michael J. Chantler.
 
 Please cite the paper as follows:
 
-_Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, Sentiment-Driven Statistical Causality in Multimodal Systems (December 8, 2020). Available at SSRN: https://ssrn.com/abstract=3742063_
+_Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, On-chain Analytics for Sentiment-driven Statistical Causality in Cryptocurrencies (December 8, 2020). Available at SSRN: https://ssrn.com/abstract=3742063_
 
-_Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, Sentiment-driven statistical causality in multimodal systems: Supplementary appendix (April 3, 2021). Available at SSRN: https://ssrn.com/abstract=3818944_
+_Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, On-chain Analytics for Sentiment-driven Statistical Causality in Cryptocurrencies: Supplementary appendix (April 3, 2021). Available at SSRN: https://ssrn.com/abstract=3818944_
 
 If you use the MatLab code for the Multiple-Output Gaussian Process Statistical Causal model, please also cite the following paper:
 
