@@ -4,13 +4,13 @@ This repository contains the code for the paper "On-chain Analytics for Sentimen
 
 Please cite the paper as follows:
 
-_Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, On-chain Analytics for Sentiment-driven Statistical Causality in Cryptocurrencies (December 8, 2020). Available at SSRN: https://ssrn.com/abstract=3742063_
+_Chalkiadakis, Ioannis, Anna Zaremba, Gareth W. Peters, and Michael J. Chantler. "On-chain analytics for sentiment-driven statistical causality in cryptocurrencies." Blockchain: Research and Applications 3, no. 2 (2022): 100063_
 
 _Chalkiadakis, Ioannis and Zaremba, Anna and Peters, Gareth and Chantler, Michael John, On-chain Analytics for Sentiment-driven Statistical Causality in Cryptocurrencies: Supplementary appendix (April 3, 2021). Available at SSRN: https://ssrn.com/abstract=3818944_
 
 If you use the MatLab code for the Multiple-Output Gaussian Process Statistical Causal model, please also cite the following paper:
 
-_Zaremba, Anna and Peters, Gareth, Statistical Causality for Multivariate Non-Linear Time Series via Gaussian Processes (May 24, 2020). Available at SSRN: https://ssrn.com/abstract=3609497 or http://dx.doi.org/10.2139/ssrn.3609497_
+_Zaremba, A.B., Peters, G.W. Statistical Causality for Multivariate Nonlinear Time Series via Gaussian Process Models. Methodol Comput Appl Probab (2022). https://doi.org/10.1007/s11009-022-09928-3_
 
 The available sentiment data contain the sentiment entropy index per news source, as well as the combined weighted sentiment indices that were used in the studies.
 
